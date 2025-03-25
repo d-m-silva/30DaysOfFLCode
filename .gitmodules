@@ -1,4 +1,0 @@
-[submodule "courses"]
-	path = courses
-	url = https://github.com/OpenMined/courses.git
-	branch = foundations-of-private-computation
