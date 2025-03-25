@@ -6,9 +6,9 @@ A repo for collecting and aggregating FL resources during Openminded 30 Days of 
 
 # Federated Learning Schedule: Nov 20, 2024 – Dec 20, 2024
 
-#Daily updates page
+# Daily updates page
 
-[https://www.linkedin.com/company/30daysofflcode-dsilva/?viewAsMember=true] 
+[Page](https://www.linkedin.com/company/30daysofflcode-dsilva/?viewAsMember=true)
 
 # Resources
 
