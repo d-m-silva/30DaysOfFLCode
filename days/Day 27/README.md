@@ -1,1 +1,1 @@
-## [Daily post](https://www.linkedin.com/pulse/day-27-homomorphic-encryption-from-foundations-future-uehpf/?trackingId=Eu1R4niNsM0AxGuy8vZYuQ%3D%3D)
+## [Day 27: Homomorphic Encryption – From Foundations to the Future! 🔒](https://www.linkedin.com/pulse/day-27-homomorphic-encryption-from-foundations-future-uehpf/?trackingId=Eu1R4niNsM0AxGuy8vZYuQ%3D%3D)
