@@ -1,1 +1,1 @@
-ECHO is on.
+## [Day 8: Completing the Remote Data Science Workflow](https://www.linkedin.com/pulse/day-8-completing-remote-data-science-workflow-30daysofflcode-dsilva-vzsec/?trackingId=MTeSDWKH8ARh%2BilGzTyudA%3D%3D)
