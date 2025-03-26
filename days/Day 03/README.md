@@ -1,1 +1,1 @@
-ECHO is on.
+## [Day 3: Privacy in Federated Learning - A Dive into PETs](https://www.linkedin.com/pulse/day-3-privacy-federated-learning-dive-pets-30daysofflcode-dsilva-pwmuf/?trackingId=uSolzjtK0t%2FuveuhbkbbKw%3D%3D)
