@@ -1,1 +1,1 @@
-ECHO is on.
+## [Day 17: Wrapping Up Federated CPU Tracker and Starting FL Workflow](https://www.linkedin.com/pulse/day-17-wrapping-up-federated-cpu-tracker-starting-61lsf/?trackingId=8%2FRhaoI5uftEZZsu4SkqDA%3D%3D)
